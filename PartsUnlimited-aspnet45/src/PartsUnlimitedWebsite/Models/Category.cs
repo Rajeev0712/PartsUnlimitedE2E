@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
-//This is for testing azure .....
+//This is for testing azure ....error trying.
 namespace PartsUnlimited.Models
 {
     public class Category
