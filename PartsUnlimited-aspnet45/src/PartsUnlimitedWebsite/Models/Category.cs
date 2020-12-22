@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
-//This is for testing azure ....error trying.,....issue
+//This is for testing azure ...22/12/2020 - 8.50
 namespace PartsUnlimited.Models
 {
     public class Category
